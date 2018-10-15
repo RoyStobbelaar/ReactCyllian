@@ -18,6 +18,14 @@
   color: white;
 }
 
+body {
+  background-color: #1A1A1A;
+}
+
+.content {
+  margin-top: 80px;
+}
+
 .App-link {
   color: #61dafb;
 }
